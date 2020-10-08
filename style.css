@@ -115,7 +115,7 @@ footer {
 
 /* PHONE-SCREEN */
 
-@media all and (max-width: 700px)
+@media all and (max-width: 1000px)
 {
     /* Rédigez vos propriétés CSS ici */
 
