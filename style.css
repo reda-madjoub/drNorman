@@ -158,6 +158,10 @@ footer {
 	.list li {
 		width: 80%;
 	}
+	li:last-child {
+		margin: 55px 0px 55px 20px;
+	}
+	
 	.moreInfo {
 		padding: 0px 10px;
 		text-align: center;
