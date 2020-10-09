@@ -1,3 +1,3 @@
 # drNorman
-Intergrationh maquette<br/>
+Intergration maquette<br/>
 Challenge du freeCodeCamp
